@@ -1,0 +1,27 @@
+/* body{
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+} */
+
+th {
+    border-bottom: solid;
+    border-bottom-width: 1px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.table-data-header{
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.table-data-dates{
+    font-weight: normal;
+}
+
+.table-data-knowledge{
+    padding-top: 10px;
+}
+
+.job-table{
+    padding-top: 50px;
+}
